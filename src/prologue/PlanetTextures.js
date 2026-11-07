@@ -494,6 +494,7 @@ export function createAtmosphereShaderMaterial() {
     `,
     uniforms: {
       glowColor: { value: new THREE.Color(0x00D9F5) } 
+    },
     blending: THREE.AdditiveBlending,
     side: THREE.BackSide,
     transparent: true,
