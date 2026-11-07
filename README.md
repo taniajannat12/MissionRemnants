@@ -3,6 +3,7 @@ Live Link : https://mission-remnants-48jb.vercel.app/
 
 
 NovoSriti
+
 Reconnecting the Past, Inspiring the Future
 
 NovoSriti is an educational space exploration experience designed to help young learners (ages 9–14) discover the stories of abandoned and inactive NASA space equipment through interactive storytelling, missions, and scientific exploration.
