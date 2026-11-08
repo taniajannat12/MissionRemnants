@@ -4,7 +4,7 @@ export const chaptersData: ChapterData[] = [
   {
     id: 'ch1-retroreflector',
     chapter: 1,
-    title: 'Apollo Laser Mirrors',
+    title: 'ASK MIRA - Mission Questions (Q&A)',
     machine: 'Apollo Lunar Ranging Retroreflectors',
     bannerIn: 'How far away is the Moon, exactly?',
     bannerOut: 'What is the Moon like on the inside?',
@@ -139,7 +139,7 @@ export const chaptersData: ChapterData[] = [
   {
     id: 'ch2-seismometer',
     chapter: 2,
-    title: 'Apollo Seismometers',
+    title: 'ASK MIRA - Mission Questions (Q&A)',
     machine: 'ALSEP Passive Seismic Experiment (PSE)',
     bannerIn: 'What is the Moon like on the inside?',
     bannerOut: 'Is there life on Mars?',
@@ -274,7 +274,7 @@ export const chaptersData: ChapterData[] = [
   {
     id: 'ch3-viking',
     chapter: 3,
-    title: 'Viking Landers',
+    title: 'ASK MIRA - Mission Questions (Q&A)',
     machine: 'Viking 1 and 2 Martian Landers',
     bannerIn: 'Is there life on Mars?',
     bannerOut: 'Was Mars once wet?',
@@ -356,7 +356,8 @@ export const chaptersData: ChapterData[] = [
       alt: 'Viking Lander engineering model showing robotic arm and camera masts',
       caption: 'Viking Lander hardware showing the 3-meter retractable soil sampler arm and meteorology mast.',
       credit: 'NASA / JPL (PIA09703)',
-      sourceUrl: 'https://images.nasa.gov/details/PIA09703'
+      // sourceUrl: 'https://images.nasa.gov/details/PIA09703'
+      sourceUrl:'https://d2pn8kiwq2w21t.cloudfront.net/images/imagesvikingviking-pia00381-1.2e16d0ba.fill-1024x441-c10.jpg'
     },
     hardwarePhotos: [
       {
@@ -409,7 +410,7 @@ export const chaptersData: ChapterData[] = [
   {
     id: 'ch4-mer',
     chapter: 4,
-    title: 'Spirit and Opportunity',
+    title: 'ASK MIRA - Mission Questions (Q&A)',
     machine: 'Mars Exploration Rovers (MER-A & MER-B)',
     bannerIn: 'Was Mars once wet?',
     bannerOut: 'Could anything fly on Mars?',
@@ -544,7 +545,7 @@ export const chaptersData: ChapterData[] = [
   {
     id: 'ch5-ingenuity',
     chapter: 5,
-    title: 'Ingenuity Helicopter',
+    title:'ASK MIRA - Mission Questions (Q&A)',
     machine: 'Ingenuity Mars Helicopter ("Ginny")',
     bannerIn: 'Could anything fly on Mars?',
     bannerOut: 'Where does the Sun’s reach end?',
@@ -679,7 +680,7 @@ export const chaptersData: ChapterData[] = [
   {
     id: 'ch6-voyager',
     chapter: 6,
-    title: 'Voyager 1',
+    title: 'ASK MIRA - Mission Questions (Q&A)',
     machine: 'Voyager 1 Interstellar Spacecraft',
     bannerIn: 'Where does the Sun’s reach end?',
     bannerOut: '',
