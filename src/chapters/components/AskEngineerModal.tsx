@@ -25,7 +25,7 @@ export const MIRA_CHAPTER_ARCHIVE: ChapterSection[] = [
     id: 'ch1',
     chapterNum: 'CH 01',
     shortTitle: 'Reflectors',
-    fullTitle: 'Apollo 11 Lunar Laser Retroreflector (LRRR)',
+    fullTitle: 'ASK MIRA - Mission Questions (Q&A)',
     location: 'Mare Tranquillitatis · Moon',
     items: [
       {
@@ -59,7 +59,7 @@ export const MIRA_CHAPTER_ARCHIVE: ChapterSection[] = [
     id: 'ch2',
     chapterNum: 'CH 02',
     shortTitle: 'Seismometers',
-    fullTitle: 'Apollo Passive Seismic Experiment (PSE)',
+    fullTitle: 'ASK MIRA - Mission Questions (Q&A)',
     location: 'ALSEP Network · Moon',
     items: [
       {
@@ -93,7 +93,7 @@ export const MIRA_CHAPTER_ARCHIVE: ChapterSection[] = [
     id: 'ch3',
     chapterNum: 'CH 03',
     shortTitle: 'Viking',
-    fullTitle: 'Viking 1 & 2 Mars Landers',
+    fullTitle: 'ASK MIRA - Mission Questions (Q&A)',
     location: 'Chryse & Utopia Planitia · Mars',
     items: [
       {
@@ -127,7 +127,7 @@ export const MIRA_CHAPTER_ARCHIVE: ChapterSection[] = [
     id: 'ch4',
     chapterNum: 'CH 04',
     shortTitle: 'Rovers',
-    fullTitle: 'Spirit & Opportunity (MER-A / MER-B)',
+    fullTitle: 'ASK MIRA - Mission Questions (Q&A)',
     location: 'Gusev Crater & Meridiani Planum · Mars',
     items: [
       {
@@ -161,7 +161,7 @@ export const MIRA_CHAPTER_ARCHIVE: ChapterSection[] = [
     id: 'ch5',
     chapterNum: 'CH 05',
     shortTitle: 'Ingenuity',
-    fullTitle: 'Ingenuity Mars Helicopter (Ginny)',
+    fullTitle: 'ASK MIRA - Mission Questions (Q&A)',
     location: 'Valinor Hills · Jezero Crater · Mars',
     items: [
       {
@@ -195,7 +195,7 @@ export const MIRA_CHAPTER_ARCHIVE: ChapterSection[] = [
     id: 'ch6',
     chapterNum: 'CH 06',
     shortTitle: 'Voyager',
-    fullTitle: 'Voyager 1 Interstellar Probe',
+    fullTitle: 'ASK MIRA - Mission Questions (Q&A)',
     location: '24.6 Billion km · Ophiuchus · Interstellar Space',
     items: [
       {
