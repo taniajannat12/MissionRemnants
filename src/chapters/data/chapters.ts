@@ -378,11 +378,14 @@ export const chaptersData: ChapterData[] = [
       }
     ],
     discoveryPhoto: {
-      src: 'https://images-assets.nasa.gov/image/PIA00563/PIA00563~medium.jpg',
+      // src: 'https://images-assets.nasa.gov/image/PIA00563/PIA00563~medium.jpg',
+      src:'https://images-assets.nasa.gov/image/PIA00563/PIA00563~orig.jpg',
       alt: 'Viking 1 soil sampler trenches and boulder Big Joe',
       caption: 'Trenches dug into Martian soil by Viking 1 robotic scoop to test for biological carbon compounds.',
       credit: 'NASA / JPL (PIA00563)',
-      sourceUrl: 'https://images.nasa.gov/details/PIA00563'
+      // sourceUrl: 'https://images.nasa.gov/details/PIA00563'
+      sourceUrl: ' https://images.nasa.gov/details/PIA00563'        
+     
     },
     facts: [
       {
