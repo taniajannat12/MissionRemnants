@@ -357,7 +357,8 @@ export const chaptersData: ChapterData[] = [
       caption: 'Viking Lander hardware showing the 3-meter retractable soil sampler arm and meteorology mast.',
       credit: 'NASA / JPL (PIA09703)',
       // sourceUrl: 'https://images.nasa.gov/details/PIA09703'
-      sourceUrl:'https://d2pn8kiwq2w21t.cloudfront.net/images/imagesvikingviking-pia00381-1.2e16d0ba.fill-1024x441-c10.jpg'
+      sourceUrl:'images-assets.nasa.gov/image/PIA00563/PIA00563~orig.jpg'
+      
     },
     hardwarePhotos: [
       {
