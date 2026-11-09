@@ -360,15 +360,16 @@ export const chaptersData: ChapterData[] = [
     },
     hardwarePhotos: [
       {
-        // src: 'https://images-assets.nasa.gov/image/PIA09703/PIA09703~medium.jpg',
-        src:'https://images-assets.nasa.gov/image/PIA00563/PIA00563~orig.jpg',
+        src: 'https://images-assets.nasa.gov/image/PIA09703/PIA09703~medium.jpg',
+       
         alt: 'Viking Lander engineering model showing robotic arm and camera masts',
         caption: 'The Viking Lander automated mechanical backhoe arm and twin facsimile scanning cameras.',
         credit: 'NASA / JPL (PIA09703)',
         sourceUrl: 'https://images.nasa.gov/details/PIA09703'
       },
       {
-        src: 'https://images-assets.nasa.gov/image/PIA03165/PIA03165~medium.jpg',
+        // src: 'https://images-assets.nasa.gov/image/PIA03165/PIA03165~medium.jpg',
+         src:'https://images-assets.nasa.gov/image/PIA00563/PIA00563~orig.jpg',
         alt: 'First surface panoramic view returned from Mars Chryse Planitia by Viking 1',
         caption: 'First high-resolution color panoramic photograph returned from Mars, showing the footpad and Martian plains.',
         credit: 'NASA / JPL (PIA03165)',
