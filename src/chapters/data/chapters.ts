@@ -4,7 +4,7 @@ export const chaptersData: ChapterData[] = [
   {
     id: 'ch1-retroreflector',
     chapter: 1,
-    title: 'ASK MIRA - Mission Questions (Q&A)',
+    title: 'Apollo Laser Mirrors',
     machine: 'Apollo Lunar Ranging Retroreflectors',
     bannerIn: 'How far away is the Moon, exactly?',
     bannerOut: 'What is the Moon like on the inside?',
@@ -139,7 +139,7 @@ export const chaptersData: ChapterData[] = [
   {
     id: 'ch2-seismometer',
     chapter: 2,
-    title: 'ASK MIRA - Mission Questions (Q&A)',
+    title: 'Apollo Seismometers',
     machine: 'ALSEP Passive Seismic Experiment (PSE)',
     bannerIn: 'What is the Moon like on the inside?',
     bannerOut: 'Is there life on Mars?',
@@ -274,7 +274,7 @@ export const chaptersData: ChapterData[] = [
   {
     id: 'ch3-viking',
     chapter: 3,
-    title: 'ASK MIRA - Mission Questions (Q&A)',
+    title: 'Viking Landers',
     machine: 'Viking 1 and 2 Martian Landers',
     bannerIn: 'Is there life on Mars?',
     bannerOut: 'Was Mars once wet?',
@@ -356,13 +356,12 @@ export const chaptersData: ChapterData[] = [
       alt: 'Viking Lander engineering model showing robotic arm and camera masts',
       caption: 'Viking Lander hardware showing the 3-meter retractable soil sampler arm and meteorology mast.',
       credit: 'NASA / JPL (PIA09703)',
-      // sourceUrl: 'https://images.nasa.gov/details/PIA09703'
-      sourceUrl:'https://images-assets.nasa.gov/image/PIA00563/PIA00563~orig.jpg'
-      
+      sourceUrl: 'https://images.nasa.gov/details/PIA09703'
     },
     hardwarePhotos: [
       {
-        src: 'https://images-assets.nasa.gov/image/PIA09703/PIA09703~medium.jpg',
+        // src: 'https://images-assets.nasa.gov/image/PIA09703/PIA09703~medium.jpg',
+        src:'https://images-assets.nasa.gov/image/PIA00563/PIA00563~orig.jpg',
         alt: 'Viking Lander engineering model showing robotic arm and camera masts',
         caption: 'The Viking Lander automated mechanical backhoe arm and twin facsimile scanning cameras.',
         credit: 'NASA / JPL (PIA09703)',
@@ -411,7 +410,7 @@ export const chaptersData: ChapterData[] = [
   {
     id: 'ch4-mer',
     chapter: 4,
-    title: 'ASK MIRA - Mission Questions (Q&A)',
+    title: 'Spirit and Opportunity',
     machine: 'Mars Exploration Rovers (MER-A & MER-B)',
     bannerIn: 'Was Mars once wet?',
     bannerOut: 'Could anything fly on Mars?',
@@ -546,7 +545,7 @@ export const chaptersData: ChapterData[] = [
   {
     id: 'ch5-ingenuity',
     chapter: 5,
-    title:'ASK MIRA - Mission Questions (Q&A)',
+    title: 'Ingenuity Helicopter',
     machine: 'Ingenuity Mars Helicopter ("Ginny")',
     bannerIn: 'Could anything fly on Mars?',
     bannerOut: 'Where does the Sun’s reach end?',
@@ -681,7 +680,7 @@ export const chaptersData: ChapterData[] = [
   {
     id: 'ch6-voyager',
     chapter: 6,
-    title: 'ASK MIRA - Mission Questions (Q&A)',
+    title: 'Voyager 1',
     machine: 'Voyager 1 Interstellar Spacecraft',
     bannerIn: 'Where does the Sun’s reach end?',
     bannerOut: '',
