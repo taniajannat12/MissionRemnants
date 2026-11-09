@@ -352,7 +352,8 @@ export const chaptersData: ChapterData[] = [
       label: 'INFERRED'
     },
     photo: {
-      src: 'https://images-assets.nasa.gov/image/PIA09703/PIA09703~medium.jpg',
+      // src: 'https://images-assets.nasa.gov/image/PIA09703/PIA09703~medium.jpg',
+           src:'https://images-assets.nasa.gov/image/PIA00563/PIA00563~orig.jpg',
       alt: 'Viking Lander engineering model showing robotic arm and camera masts',
       caption: 'Viking Lander hardware showing the 3-meter retractable soil sampler arm and meteorology mast.',
       credit: 'NASA / JPL (PIA09703)',
@@ -368,8 +369,8 @@ export const chaptersData: ChapterData[] = [
         sourceUrl: 'https://images.nasa.gov/details/PIA09703'
       },
       {
-        // src: 'https://images-assets.nasa.gov/image/PIA03165/PIA03165~medium.jpg',
-         src:'https://images-assets.nasa.gov/image/PIA00563/PIA00563~orig.jpg',
+        src: 'https://images-assets.nasa.gov/image/PIA03165/PIA03165~medium.jpg',
+    
         alt: 'First surface panoramic view returned from Mars Chryse Planitia by Viking 1',
         caption: 'First high-resolution color panoramic photograph returned from Mars, showing the footpad and Martian plains.',
         credit: 'NASA / JPL (PIA03165)',
